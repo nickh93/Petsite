@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _PetSite_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Simple website devoted to pets. 8/2/16_
 
 #### By _**Kyle Fisher and Nicolas Hurtado**_
 
@@ -16,7 +16,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_no known bugs_ 
+_no known bugs_
 
 ## Support and contact details
 
